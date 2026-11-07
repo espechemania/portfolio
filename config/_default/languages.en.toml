@@ -14,16 +14,16 @@ title = "Federico Espeche"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Federico Espeche"
+[params.author]
+name = "Federico Espeche"
 #   email = "youremail@example.com"
-#   image = "imresizer-resize-pfp.jpg"
+image = "imresizer-resize-pfp.jpg"
 #   imageQuality = 96
-#   headline = "Narrative Designer - Writer - Translator"
-#   bio = "I do things with words"
-#   links = [
+headline = "Narrative Designer - Writer - Translator"
+bio = "I do things with words"
+links = [
 #     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://www.linkedin.com/in/federico-espeche/" },
+{ link = "https://www.linkedin.com/in/federico-espeche/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -68,7 +68,7 @@ title = "Federico Espeche"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-#     { x-twitter = "https://twitter.com/username" },
+{ x-twitter = "https://x.com/espechemania" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
