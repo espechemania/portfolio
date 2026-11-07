@@ -10,4 +10,3 @@ On this site I write about how I approach the work: the decisions, the mistakes,
 ## Get in touch
 
 - LinkedIn: [Federico Espeche](https://www.linkedin.com/in/federico-espeche/)
-- Email: [espeche@gmail.com](mailto:espeche@gmail.com)
