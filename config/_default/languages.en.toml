@@ -15,15 +15,15 @@ title = "Federico Espeche"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
-#   name = "Your name here"
+#   name = "Federico Espeche"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+#   image = "imresizer-resize-pfp.jpg"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+#   headline = "Narrative Designer - Writer - Translator"
+#   bio = "I do things with words"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://link-to-some-website.com/" },
+#     { link = "https://www.linkedin.com/in/federico-espeche/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
