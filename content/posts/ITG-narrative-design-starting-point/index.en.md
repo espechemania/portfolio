@@ -4,7 +4,7 @@ date: 2026-11-06
 description: "The start of our narrative design"
 draft: true
 ---
-##Narrative Design in Into The Grid: From the Beginning
+## Narrative Design in Into The Grid: From the Beginning
 
 When I took my first steps into narrative design, it felt like an amorphous activity, something that refused to be defined by static limits. That lack of clear boundaries made it intimidating and hard to approach. Five years later, I think that while the job is certainly multifaceted and requires a fair degree of flexibility on the designer's part, it's not the inaccessible discipline I once thought it was.
 
