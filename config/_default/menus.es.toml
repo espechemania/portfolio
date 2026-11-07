@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Home"
-  pageRef = "posts"
+  name = "Inicio"
+  pageRef = "/"
   weight = 10
 
 #[[main]]
@@ -53,7 +53,7 @@
 
 
 [[footer]]
-  name = "Tags"
+  name = "Etiquetas"
   pageRef = "tags"
   weight = 10
 
