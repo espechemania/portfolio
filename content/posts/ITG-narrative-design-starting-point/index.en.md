@@ -15,11 +15,11 @@ We had the call, and although a lot of the details are fuzzy after so many years
 
 Aside from defining those broad genre strokes, we also discussed references. They mentioned **Rush**'s album **2112**. I brought the rap opera album **Deltron 3030** to the conversation. We all talked about how much we loved the original **Blade Runner**. At some point, I'm sure **Johnny Mnemonic** and **ReBoot** came up. Not all of these references ended up hardcoded in Into The Grid, but they all informed the conversation we were having. How far into the future do we want our world to be? The year 3030 was too far away for us to easily identify ourselves in it. 2112 was much closer to home, far enough to be different, but not so distant that we had to reimagine every human experience. Some cultural references were useful for their aesthetics; others, for the way they explored mechanics we thought were fun and interesting. In the end, what mattered was that we could point at these references and say, "I think we should play around with this concept," then separate it from its source and see how it fit into our own emerging world.
 
-{{< figure src="Blade_Runner.png" caption="Such an amazing movie" >}}
-
-{{< figure src="deltron_3030.jpg" caption="One of my favourite albums" >}}
-
-{{< figure src="rush_2112.jpg" caption="I hadn't even heard of Rush before this project, shame on me" >}}
+{{< gallery >}}
+  <img src="Blade_Runner.png" alt="Such an amazing movie" class="grid-w33" />
+  <img src="deltron_3030.jpg" alt="One of my favourite albums" class="grid-w33" />
+  <img src="rush_2112.jpg" alt="I hadn't even heard of Rush before this project, shame on me" class="grid-w33" />
+{{< /gallery >}}
 
 I now had some idea of the narrative context I had to build. But that alone wasn't really enough. What was I building for? What use would my creation have? Was the end goal to write the story of how one fully fleshed-out hero brought that dystopian world down and made a better one (and then make a movie out of it), or did I have to come up with dozens of blank-slate characters that anybody could identify with in a world that was unchanged by those characters' actions? We had another working session to make some decisions. In the end, we emerged with a couple of hard facts: first, the narrative would centre on five distinct factions of hackers who would form the last line of resistance against the five megacorporations that ruled Earth with an iron fist. Second, we were making a multiplayer role-playing experience that would react to the players' actions. One player's behaviour would shape the world for everyone else, and everyone could meaningfully impact its narrative.
 
