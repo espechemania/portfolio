@@ -86,7 +86,7 @@ The first faction was meant to be the base, the vanilla one. As someone who love
 
 For the second faction, we wanted a group of hacking streamers and influencers. In my mind, they would be something like Banksy meets the Project Mayhem part of **Fight Club**: they would wipe the data centres of financial institutions to erase the masses' debt, all while streaming it and making sure it looked aesthetically superb. We worked on this concept for quite some time before dropping it, and in all honesty, I stand by that decision. Think about it: a whole faction of hackers that not only successfully attacks corporations but broadcasts it, and isn't consistently caught? Just how good are these hackers? Or are our corporations completely useless at defending themselves? If these hackers could do all that, they were either overpowered or their opponents were toothless, and neither is good for world-building. Both make the risk of the antagonists winning almost non-existent, and justifying it narratively was a problem on top of that.
 
-{{< figure src="original_makers_concept.png" alt="Artist's original concept art for the Makers" caption="This version never made it to production" >}}
+{{< figure src="original_makers_concept.png" alt="Artist's original concept art for the Makers" caption="This version of the Makers never made it to production" >}}
 
 So, I took that idea out back and shot it, because it was my responsibility to say, "I know we want this to work, but it isn't doing what we need it to do, and it will be a bigger problem down the line." A lot of the concepts for this faction had come from team members higher up the chain of command, yet they trusted me and gave me the green light to go back to square one and do something different that was still interesting but less problematic. The new version kept the spirit of hackers who wanted to make things beautifully, and the idea of sharing with others, but gave it a spin: these hackers would be copyleft advocates and champions of freedom of information. Knowledge is what they would share, and if, in the course of their cyberterrorist activities, they happened to dazzle other hackers with the sophistication of the programs they coded or the machines they built, so be it. We kept it simple and named them the [**Makers**](https://www.flatline.games/themakers), with a general tinkerers' vibe.
 
@@ -110,7 +110,7 @@ For our fourth faction, we wanted a really simple but hard-hitting objective: to
 
 {{< gallery >}}
   <img src="punks_notion.JPG" alt="Screenshot of a design document for the Punks" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w33" />
-<img src="guild_concept.png" alt="Artist's rendition of a Punk hacker" title="Artist's rendition of a Punk hacker" class="grid-w33" />
+<img src="punk.png" alt="Artist's rendition of a Punk hacker" title="Artist's rendition of a Punk hacker" class="grid-w33" />
 {{< /gallery >}}
 
 *Left to right: Screenshot of a design document for the Punks, artist's rendition of a Punk hacker.*
