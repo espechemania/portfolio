@@ -2,7 +2,7 @@
 title: "Narrative Design in Into The Grid: From Loose Concepts to Defined Entities"
 date: 2026-11-15
 description: "How we turned five blank megacorporations and five blank hacker factions into entities with names, histories and motives."
-draft: true
+draft: false
 ---
 
 In the previous entry, I talked about how we didn't yet know what the world we were building would be used for, but had a solid sense of the elements it needed. Whatever product we ended up making, it would be cyberpunk, with five megacorporations ruling a dystopian future and five factions of hackers opposing them. That distribution wasn't arbitrary: five of each gave us variety and room for both storytelling and experience design without spreading the audience's attention too thin.
