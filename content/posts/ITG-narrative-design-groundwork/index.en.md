@@ -25,47 +25,62 @@ So, five somewhat blank, generic megacorporations: weapons and security; food an
 
 We dissolved the United Kingdom and replaced it with the English Territories, placing our warmongering company in the newly created Autonomous City of Greater London. Its history as a naval and colonial superpower, along with some of my own personal critiques of that history, justified the decision.
 
-{{< figure src="wdi_notion.JPG" alt="Screenshot of a design document for Wardlord Defense Industries" caption="I'm always for breaking down ideas to their essential notes, it makes them accesible for anyone to read" >}}
-
 Most of the development team, myself included, is Argentinian, and we wanted to include our homeland. I took the self-deprecating route, though, and called it the Uruguayan Annexed Territories, hinting that there was no such country as Argentina anymore after it had been invaded by our neighbours to the northeast. That location went to our media megacorporation.
-
-{{< figure src="adg_notion.JPG" alt="Screenshot of a design document for Adonis Digital Group" caption="I'm always for breaking down ideas to their essential notes, it makes them accesible for anyone to read" >}}
 
 Another decision was to turn the whole African continent into a single country called the African Union. Some readers might find that reprehensible, or a sign of lazy world-building, since it skips over the subtle and not-so-subtle differences between the peoples who would make up such a rich geopolitical entity. I won't say that's an impossible reading, and if it's true, it's on me. I will say it was a decision made with intent. Since we had decided not to copy the 2020 geopolitical configuration of the world into our product, we had room to place centres of power where we wanted or needed them, and I think it's hard not to show some of one's opinions and wishes in one's work. I recognise some youthful political naivety in the idea of a continent that was once almost entirely colonised consolidating a union and becoming one of the heavyweight contenders for global power. I would have written it for my own continent, South America, but even knowing I was writing science fiction, that felt a little too far-fetched. So, the made-up city of Mwandez, capital of the African Union, became the seat of power of the most important robotics and software megacorporation in our narrative universe.
 
-{{< figure src="zs_notion.JPG" alt="Screenshot of a design document for Zebra Synthetics" caption="I'm always for breaking down ideas to their essential notes, it makes them accesible for anyone to read" >}}
-
 I also eroded the individual European countries and merged them into the Unified Swiss Commonwealth of European States, so it's not like I was being careful about preserving identity elsewhere. The reasoning was straightforward: having one of our megacorporations in a German-speaking area was good for nomenclature, because it let me name things in German, which sounds different and unique and helps with the branding of fictional companies. And for historical reasons, I wasn't about to make Germany the leading European superstate. So our pharmaceutical company's headquarters ended up in Switzerland.
 
-{{< figure src="sands_notion.JPG" alt="Screenshot of a design document for Schäfer & Schäfer Laboratories" caption="I'm always for breaking down ideas to their essential notes, it makes them accesible for anyone to read" >}}
-
 After placing megacorporations in England, South America, Africa and continental Europe, we all kind of knew what was next: Asia. Why? For many reasons. A lot of the imagery of cyberpunk has Asian flavouring, from the neon signs and noodle street carts of **Blade Runner** to Katsuhiro Ōtomo's **Akira**. Many of the things we loved about sci-fi combined cutting-edge technology with ancient cultures and holographic ideograms. I decided to locate our food and water colossus in Japan, mainly because I had been to Japan once and understood some of the language, which I thought would make for good nomenclature and aesthetics.
-
-{{< figure src="kc_notion.JPG" alt="Screenshot of a design document for the Karaguchi Conglomerate" caption="I'm always for breaking down ideas to their essential notes, it makes them accesible for anyone to read" >}}
 
 To recap: we started knowing we needed five megacorporations and nothing more. We defined their industries, then assigned them locations, starting broad and getting more specific as we went. We were far from done, since nothing had names or backstories yet, but what used to be complete darkness had become blurry shapes and was turning into more defined figures. To me, the work is usually exactly that: you start general and get specific. You identify a broad idea of what you want or need from a narrative standpoint, then ask that idea the right questions until you reach shapes and colours that fulfil the initial need and are also interesting and fun to tell stories with.
 
 Take our military company. England has a long history of wars, from medieval times to the Second World War, so we tapped into that background and imagined a single family that had been making money off bloodshed for generations. We named the family Wardlord and the corporation **Wardlord Defense Industries** (WDI). I'll talk about naming in more depth in a future entry, but this one is fairly obvious: "Wardlord" sounds like "warlord", but the verb "ward" also means "protect". We didn't want flat megacorporations that proclaim themselves evil for the fun of it; we wanted to give them purpose. WDI was "protecting order", and the people working there would most definitely believe they were doing good work, protecting those who couldn't defend themselves, even if it meant restricting basic rights or causing some collateral casualties. That contrast between lords of war and lords of warding was fun enough for us as developers that it became part of our world-building philosophy: the audience would identify with the hackers, so the corporate adversaries had to be easy to oppose while still holding a self-image of decency or legitimate purpose. I wrote a bit of lore for WDI about how the Wardlords had been selling weapons and armour since the Middle Ages and how that grew into the military corporation of 2112. That was enough backstory for the time being.
 
-{{< figure src="wardlordHQ.webp" alt="Artist's rendition of WDI's headquarters" caption="Artist's rendition of WDI's headquarters" >}}
+{{< gallery >}}
+  <img src="wdi_notion.JPG" alt="Screenshot of a design document for Wardlord Defense Industries" title="I'm a big believer in breaking ideas down to their essential notes: it makes them accessible to anyone." class="grid-w50" />
+  <img src="wardlordHQ.webp" alt="A fortress-like building in the middle of a futuristic city." title="Artist's rendition of WDI's headquarters" class="grid-w50" />
+{{< /gallery >}}
+
+*Left to right: Screenshot of a design document for WDI, artist's rendition of WDI's headquarters.*
 
 For our Japanese food and water company, I wrote the story of a Japanese chemist who developed a new method for purifying water and printing synthetic meat. We named the company the **Karaguchi Conglomerate** (KC), after its founder's surname. In Japanese, "kara" can mean "empty" (から, 空), and "guchi" can sound like the word for "mouth" (くち, 口), so "empty mouth" seemed a fitting surname for someone who not only produced food but also starved people by being the sole controller of that monopoly. The company would be responsible for feeding a big part of the world, so its existence had an undeniable positive impact. To give its lore some spice, though, the KC would also use its control over food and water to coerce countries into some degree of submission. That attitude would come from a genuine belief that only they were fit for such responsibility, a belief embodied by the nationalism of its leadership, and the direct effect would be that the KC regarded anybody outside its inner structure as inferior and unworthy of making any relevant decision.
 
-{{< figure src="karaguchiHQ.jpeg" alt="Artist's rendition of KC's headquarters" caption="Artist's rendition of KC's headquarters" >}}
+{{< gallery >}}
+  <img src="kc_notion.JPG" alt="Screenshot of a design document for the Karaguchi Conglomerate" title="I'm a big believer in breaking ideas down to their essential notes: it makes them accessible to anyone." class="grid-w50" />
+  <img src="karaguchiHQ.jpeg" alt="A pagoda-style tower, five stories high, surrounded by a traditional Japanese garden, in the middle of a futuristic city by day." title="Artist's rendition of KC's headquarters" class="grid-w50" />
+{{< /gallery >}}
+
+*Left to right: Screenshot of a design document for the KC, artist's rendition of KC's headquarters.*
 
 Next came the media outlet, the propaganda machine, which we had placed in Argentina. Since that was the home of most of the developers, we wanted to have some fun with it. At its centre was a fictional character, a composite of several real figures from Argentine television and culture: a man who came from poverty and, through sheer charisma and ambition, built the number one entertainment show on the planet. Inspired by the Argentine media I grew up with, his show was a primetime spectacle built on humour and sexual exploitation, where people either told dirty jokes or put their bodies on display. It's my critique of the programming of my childhood. People going through hard times often look to entertainers as something essential in their lives, and that makes sense: after a day of backbreaking work in an ever-decaying society, an hour of a fun show is escapism, and perhaps a much-needed one. But if the person providing that escapism knows their work only numbs the audience and keeps it meek, rather than using the platform to encourage positive change, well, maybe there's something cruel about a host like that, even more so if he can be bought to influence viewers at will. We decided not to name the company after a founder, just to switch things around, but since it had that superficial ethos and that fixation on bodies, we baptised it **Adonis Digital Group** (ADG) and gave it most of the streaming and social media in our narrative universe.
 
-{{< figure src="adonisHQ.jpeg" alt="Artist's rendition of ADG's headquarters" caption="Artist's rendition of ADG's headquarters" >}}
+{{< gallery >}}
+  <img src="adg_notion.JPG" alt="Screenshot of a design document for Adonis Digital Group" title="I'm a big believer in breaking ideas down to their essential notes: it makes them accessible to anyone." class="grid-w50" />
+  <img src="adonisHQ.jpeg" alt="An art-deco skyscraper in the middle of a futuristic city by day." title="Artist's rendition of ADG's headquarters" class="grid-w50" />
+{{< /gallery >}}
+
+*Left to right: Screenshot of a design document for ADG, artist's rendition of ADG's headquarters.*
 
 Then came our Germanic pharmaceutical company. Something with an umlaut was the goal, and the temptation to name a medical corporation using the same surname twice in a row was too strong to resist, so **Schäfer & Schäfer Laboratories** (S&S) came into existence. But who were the Schäfers behind such a powerful drug emporium? They would be twin sisters: one a medical researcher responsible for a major scientific breakthrough, the other the business expert. Then we decided that two founders for a single company was perhaps excessive, so one sister mysteriously disappeared, which simplified the organisational chart while keeping the "missing twin" trope available for later, if needed. That left the other sister, a paranoid woman hooked on her own brand of drugs, who kept a sinister secret and was open to ruthless human testing to increase company profits.
 
-{{< figure src="schafer_hospital.png" alt="Artist's rendition of a Schäfer & Schäfer hospital" caption="Artist's rendition of a Schäfer & Schäfer hospital" >}}
+{{< gallery >}}
+  <img src="sands_notion.JPG" alt="Screenshot of a design document for Schäfer & Schäfer Laboratories" title="I'm a big believer in breaking ideas down to their essential notes: it makes them accessible to anyone." class="grid-w50" />
+  <img src="schafer_hospital.png" alt="A modernist hospital building, with a holographic image of a baby floating on top, in a futuristic city by night." title="Artist's rendition of a Schäfer & Schäfer hospital" class="grid-w50" />
+{{< /gallery >}}
+
+*Left to right: Screenshot of a design document for S&S, artist's rendition of a Schäfer & Schäfer hospital.*
 
 For our African software and robotics corporation, the idea was to try something different. So far, every company we had designed had been founded by an individual or family who still ran it in our narrative present. We thought it might be interesting to explore a company created by one person and taken over by another. The corporation was written as the brainchild of a brilliant programmer who had used all her talent to build robots and artificial intelligences to assist humanity. She would die in unclear circumstances, leaving the company to her protégé, whose intentions were somewhat darker than hers: the desire to transform their own consciousness into software and eliminate the need for human bodies. The African setting and my love for animal-print themes led us to agree on the name **Zebra Synthetics** (ZS) for our robotics megacorporation.
 
-{{< figure src="zebraHQ.jpeg" alt="Artist's rendition of a Zebra Synthetics' headquarters" caption="Artist's rendition of a Zebra Synthetics' headquarters" >}}
+{{< gallery >}}
+  <img src="zs_notion.JPG" alt="Screenshot of a design document for Zebra Synthetics" title="I'm a big believer in breaking ideas down to their essential notes: it makes them accessible to anyone." class="grid-w50" />
+  <img src="zebraHQ.jpeg" alt="A pyramid-shaped building in the middle of a futuristic desert town by day." title="Artist's rendition of Zebra Synthetics' headquarters" class="grid-w50" />
+{{< /gallery >}}
 
-Our megacorporations now had a lot more substance. As a design document, I wrote something like an encyclopedia entry for each corporation with everything we had decided about them (I'll link the published texts). These entries consolidated the product of our work sessions, putting everything we had discussed as a team about the corporations in one place. They also served as a reference, first for me and then for any other artist on the project, such as character designers and musicians: anyone who needed a feel for what the corporations of our world were like would find everything we could provide. Here's the quick version:
+*Left to right: Screenshot of a design document for ZS, artist's rendition of Zebra Synthetics' headquarters.*
+
+Our megacorporations now had a lot more substance. As a design document, I wrote something like an encyclopedia entry for each corporation with everything we had decided about them (you’ll find the published versions in the links below). These entries consolidated the product of our work sessions, putting everything we had discussed as a team about the corporations in one place. They also served as a reference, first for me and then for any other artist on the project, such as character designers and musicians: anyone who needed a feel for what the corporations of our world were like would find everything we could provide. Here's the quick version:
 
 - [**Wardlord Defense Industries**](https://www.flatline.games/wdi) was a centuries-old weapons manufacturer with a fascist drive for order at any cost.
 - The [**Karaguchi Conglomerate**](https://www.flatline.games/kc) turned out to be a despotic food supplier with no issue starving those who didn't follow its lead.
@@ -78,8 +93,8 @@ We were happy with where our antagonists stood. But what about our protagonists?
 The first faction was meant to be the base, the vanilla one. As someone who loves vanilla flavours, I took that to mean it had to be simple but still interesting. After some work sessions, we decided this faction would be made up of mercenaries: hackers who usually worked alone but could also form teams to complete contracts. When the idea of working alone versus working in teams came up, something clicked from a language perspective. People who work alone can be called "lone wolves", and the animal reference stuck with us. Maybe the opposite of these lone wolves were hackers who ran in packs. We had also discussed making this the most welcoming faction, the one anybody could join if they had nowhere else to go. We considered all of that and settled on a name that kept the animal idea, since dogs can be loners or run in packs, and that also suited those with nowhere else to go: the [**Stray Dogs**](https://www.flatline.games/thestraydogs). Their general mindset would be a drive to be the best at their craft, and their aesthetic would be rough and heavily worn, signalling experience and a constant need to adapt to whatever they had on hand. As with the corporations, and with every faction after this one, I wrote their reference entry.
 
 {{< gallery >}}
-  <img src="strays_notion.JPG" alt="Screenshot of a design document for the Stray Dogs" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w33" />
-  <img src="stray-char-low.png" alt="Artist's rendition of a Stray Dog hacker" title="Artist's rendition of a Stray Dog hacker" class="grid-w33" />
+  <img src="strays_notion.JPG" alt="Screenshot of a design document for the Stray Dogs" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w50" />
+  <img src="stray-char-low.png" alt="Artist's rendition of a Stray Dog hacker" title="Artist's rendition of a Stray Dog hacker" class="grid-w50" />
 {{< /gallery >}}
 
 *Left to right: Screenshot of a design document for the Stray Dogs, artist's rendition of a Stray Dog hacker.*
@@ -91,8 +106,8 @@ For the second faction, we wanted a group of hacking streamers and influencers. 
 So, I took that idea out back and shot it, because it was my responsibility to say, "I know we want this to work, but it isn't doing what we need it to do, and it will be a bigger problem down the line." A lot of the concepts for this faction had come from team members higher up the chain of command, yet they trusted me and gave me the green light to go back to square one and do something different that was still interesting but less problematic. The new version kept the spirit of hackers who wanted to make things beautifully, and the idea of sharing with others, but gave it a spin: these hackers would be copyleft advocates and champions of freedom of information. Knowledge is what they would share, and if, in the course of their cyberterrorist activities, they happened to dazzle other hackers with the sophistication of the programs they coded or the machines they built, so be it. We kept it simple and named them the [**Makers**](https://www.flatline.games/themakers), with a general tinkerers' vibe.
 
 {{< gallery >}}
-  <img src="makers_notion.JPG" alt="Screenshot of a design document for the Makers" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w33" />
-<img src="maker.png" alt="Artist's rendition of a Maker runner after the rework" title="This was closer to the final concept of the faction" class="grid-w33" />
+  <img src="makers_notion.JPG" alt="Screenshot of a design document for the Makers" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w50" />
+<img src="maker.png" alt="Artist's rendition of a Maker runner after the rework" title="This was closer to the final concept of the faction" class="grid-w50" />
 {{< /gallery >}}
 
 *Left to right: Screenshot of a design document for the Makers, artist's rendition of the updated concept for the Makers.*
@@ -100,8 +115,8 @@ So, I took that idea out back and shot it, because it was my responsibility to s
 Next, we wanted a proper criminal organisation. All hackers are criminals, but we wanted the more **John Wick**, high-class, secret-society type. Its spirit would be loyalty: members would usually be taken in very young and given access to all the organisation's resources, and in exchange they would carry out any assignment they were given. It would have a clear vertical hierarchy and a luxurious, refined aesthetic. Because we wanted an amalgam of every known criminal organisation in the world, we needed a name flexible enough to encompass many affiliations. We all agreed on the [**Guild**](https://www.flatline.games/theguild). In my mind it ran along the lines of the Thieves' Guild in **The Elder Scrolls** and the 1999 film **Payback**, and I recall other team members associated it with other groups, like the Syndicate in **Android: Netrunner**.
 
 {{< gallery >}}
-  <img src="guild_notion.JPG" alt="Screenshot of a design document for the Guild" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w33" />
-<img src="guild_concept.png" alt="Artist's rendition of a Guild member" title="This art was even present in some of the early promo material for Into The Grid" class="grid-w33" />
+  <img src="guild_notion.JPG" alt="Screenshot of a design document for the Guild" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w50" />
+<img src="guild_concept.png" alt="Artist's rendition of a Guild member" title="This art was even present in some of the early promo material for Into The Grid" class="grid-w50" />
 {{< /gallery >}}
 
 *Left to right: Screenshot of a design document for the Guild, artist's rendition of a Guild member.*
@@ -109,8 +124,8 @@ Next, we wanted a proper criminal organisation. All hackers are criminals, but w
 For our fourth faction, we wanted a really simple but hard-hitting objective: to revolt. We imagined hackers convinced they were doing the right thing, not for profit, ego or glory, but because they believed standing against oppressors should be everyone's default mode. We also gave this faction the strongest anti-technology position of all. They would still be very much cyberpunk, but we thought the "preserve our humanity" trope could find a good home with some of its members. Because the concept felt quite classic, we named them the [**Punks**](https://www.flatline.games/thepunks), and decided their aesthetic would be a more futuristic version of the stereotypical punk look: cyber implants shaped like mohawks that change colour with the wearer's mood, that sort of thing. It was classic enough to be instantly recognisable, but still futuristic and sci-fi.
 
 {{< gallery >}}
-  <img src="punks_notion.JPG" alt="Screenshot of a design document for the Punks" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w33" />
-<img src="punk.png" alt="Artist's rendition of a Punk hacker" title="Artist's rendition of a Punk hacker" class="grid-w33" />
+  <img src="punks_notion.JPG" alt="Screenshot of a design document for the Punks" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w50" />
+<img src="punk.png" alt="Artist's rendition of a Punk hacker" title="Artist's rendition of a Punk hacker" class="grid-w50" />
 {{< /gallery >}}
 
 *Left to right: Screenshot of a design document for the Punks, artist's rendition of a Punk hacker.*
@@ -122,8 +137,8 @@ Here was the issue. We had decided that this faction's taste for implants and mo
 We did a lot of work on how these hackers would contact the aliens, what orders they would receive, and what hierarchy they would have. A lot of it ended up being cut, modified, or simply tagged as "we'll deal with that later" (more on that in a future entry), but the concept of a group of heavily modified hackers obsessed with the existence of aliens was solid enough to keep, even if we didn't agree on every detail. We went back to **Rush** for the name of the alien race, the Syrinx. If you haven't heard **The Temples of Syrinx**, do; I think it's one of my favourites from the band. For the hackers themselves, since we wanted them enigmatic and mysterious, we chose the name [**Cyphers**](https://www.flatline.games/thecyphers).
 
 {{< gallery >}}
-  <img src="cyphers_notion.JPG" alt="Screenshot of a design document for the Cyphers" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w33" />
-<img src="cypher_concept.png" alt="Artist's concept art of a Cypher hacker" title="Artist's concept art of a Cypher hacker" class="grid-w33" />
+  <img src="cyphers_notion.JPG" alt="Screenshot of a design document for the Cyphers" title="Essential notes for the factions made it easy for anybody to jump in and work the concept however they needed" class="grid-w50" />
+<img src="cypher_concept.png" alt="Artist's concept art of a Cypher hacker" title="Artist's concept art of a Cypher hacker" class="grid-w50" />
 {{< /gallery >}}
 
 *Left to right: Screenshot of a design document for the Cyphers, artist's concept art of a Cypher hacker.*
