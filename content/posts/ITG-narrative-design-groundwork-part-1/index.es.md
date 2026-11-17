@@ -1,7 +1,7 @@
 ---
 title: "Diseño narrativo en Into The Grid: de conceptos sueltos a entidades definidas - Creando las megacorporaciones"
 date: 2026-11-15
-description: "Cómo pasamos de cinco megacorporaciones y cinco facciones de hackers sin definir a entidades con nombre, historia y motivaciones."
+description: "Cómo pasamos de cinco megacorporaciones sin definir a entidades con nombre, historia y motivaciones."
 draft: false
 ---
 
