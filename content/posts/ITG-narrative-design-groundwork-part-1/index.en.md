@@ -1,7 +1,7 @@
 ---
-title: "Narrative Design in Into The Grid: From Loose Concepts to Defined Entities - Creating the Megacorporations"
+title: "Narrative Design in Into The Grid: From Loose Concepts to Defined Entities, Part 1: The Megacorporations"
 date: 2026-11-15
-description: "How we turned five blank megacorporations into entities with names, histories and motives."
+description: "How we turned five generic megacorporations into entities with names, histories and motives."
 draft: false
 ---
 
@@ -88,4 +88,4 @@ Our megacorporations now had a lot more substance. As a design document, I wrote
 - [**Schäfer & Schäfer Laboratories**](https://www.flatline.games/schafer) came out as a cutting-edge pharmaceutical company willing to destroy the health of the many to improve the quality of life of the few.
 - [**Zebra Synthetics**](https://www.flatline.games/zebra) started as a compassionate organisation that promoted scientific advancement, but was now under grimmer management.
 
-We were happy with where our antagonists stood. But what about our protagonists? What about the hackers? You'll have to join me for next entry to find out.
+We were happy with where our antagonists stood. They had names, some personality, some objectives. But what about our protagonists? The people we wanted our audience to identify were still blank slates. What about the hackers? You'll have to join me in the next entry to find out.
