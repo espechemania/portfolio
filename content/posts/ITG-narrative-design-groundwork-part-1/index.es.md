@@ -1,7 +1,7 @@
 ---
-title: "Diseño narrativo en Into The Grid: de conceptos sueltos a entidades definidas - Creando las megacorporaciones"
+title: "Diseño narrativo en Into The Grid: de conceptos sueltos a entidades definidas, Parte 1: las megacorporaciones"
 date: 2026-11-15
-description: "Cómo pasamos de cinco megacorporaciones sin definir a entidades con nombre, historia y motivaciones."
+description: "Cómo pasamos de cinco megacorporaciones genéricas a entidades con nombre, historia y motivaciones."
 draft: false
 ---
 
@@ -88,4 +88,4 @@ Nuestras megacorporaciones ahora tenían mucha más sustancia. Como documento de
 - [**Schäfer & Schäfer Laboratories**](https://www.flatline.games/schafer) salió como una farmacéutica de vanguardia dispuesta a destruir la salud de muchos para mejorar la calidad de vida de unos pocos.
 - [**Zebra Synthetics**](https://www.flatline.games/zebra) empezó como una organización compasiva que promovía el avance científico, pero ahora estaba bajo una gestión más sombría.
 
-Estábamos conformes con el lugar al que habían llegado nuestros antagonistas. Pero ¿y nuestros protagonistas? ¿Qué sabíamos de los hackers? Tendrán que acompañarme en la próxima entrada para averiguarlo.
+Estábamos conformes con el lugar al que habían llegado nuestros antagonistas. Ya tenían nombres, algo de personalidad, algunos objetivos. Pero ¿y nuestros protagonistas? Las personas con las que queríamos que el público se identificara seguían siendo hojas en blanco. ¿Y los hackers? Vas a tener que acompañarme en la próxima entrada para averiguarlo.
