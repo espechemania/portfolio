@@ -88,4 +88,4 @@ Our megacorporations now had a lot more substance. As a design document, I wrote
 - [**Schäfer & Schäfer Laboratories**](https://www.flatline.games/schafer) came out as a cutting-edge pharmaceutical company willing to destroy the health of the many to improve the quality of life of the few.
 - [**Zebra Synthetics**](https://www.flatline.games/zebra) started as a compassionate organisation that promoted scientific advancement, but was now under grimmer management.
 
-We were happy with where our antagonists stood. They had names, some personality, some objectives. But what about our protagonists? The people we wanted our audience to identify were still blank slates. What about the hackers? You'll have to join me in the next entry to find out.
+We were happy with where our antagonists stood. They had names, some personality, some objectives. But our protagonists, the people we wanted our audience to identify with, were still blank slates. You'll have to join me in the next entry to find out how that changed.
