@@ -1,6 +1,6 @@
 ---
 title: "Narrative Design in Into The Grid: From Loose Concepts to Defined Entities - Creating the Hacker Factions"
-date: 2026-11-15
+date: 2026-11-16
 description: "How we turned five blank hacker factions into entities with names, histories and motives."
 draft: false
 ---
