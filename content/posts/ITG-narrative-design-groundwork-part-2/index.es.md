@@ -1,7 +1,7 @@
 ---
-title: "Diseño narrativo en Into The Grid: de conceptos sueltos a entidades definidas - Creando las facciones de hackers"
-date: 2026-11-15
-description: "Cómo pasamos de cinco facciones de hackers sin definir a entidades con nombre, historia y motivaciones."
+title: "Diseño narrativo en Into The Grid: de conceptos sueltos a entidades definidas, Parte 2: las facciones de hackers"
+date: 2026-11-16
+description: "Cómo pasamos de cinco facciones de hackers genéricas a entidades con nombre, historia y motivaciones."
 draft: false
 ---
 
